@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/anupingale/circleci_prac/issues"
   },
-  "homepage": "https://github.com/anupingale/circleci_prac#readme"
+  "homepage": "https://github.com/anupingale/circleci_prac#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
 }
