@@ -1,0 +1,22 @@
+{
+  "name": "circleci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anupingale/circleci_prac.git"
+  },
+  "author": "Annapurna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anupingale/circleci_prac/issues"
+  },
+  "homepage": "https://github.com/anupingale/circleci_prac#readme"
+}
